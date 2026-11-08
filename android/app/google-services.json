@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "537212930645",
+    "firebase_url": "https://bitebox-app-e8df4-default-rtdb.firebaseio.com",
+    "project_id": "bitebox-app-e8df4",
+    "storage_bucket": "bitebox-app-e8df4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537212930645:android:d3d99506f2e28e399822dc",
+        "android_client_info": {
+          "package_name": "com.example.bitebox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRPLDj3HVkKPEYf2NktnnviDMjTtc-xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
